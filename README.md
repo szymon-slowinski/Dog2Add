@@ -23,4 +23,4 @@ Clone the repo
 ```git clone https://github.com/your_username_/Project-Name.git```
 Install NPM packages ```npm install```<br/>
 Create file .env.local and add your all API keys ``` REACT_APP_FIREBASE_API_KEY= YOUR API ``` </br>
-Write in cosole ```npm start```
+Write in console ```npm start```
