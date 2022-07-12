@@ -1,7 +1,7 @@
 # Content of Project
-* [General info]) (#Information)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* [Information](#information)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 
 ## Information
