@@ -23,11 +23,10 @@ Create account and get your API at https://firebase.google.com/ <br/>
 Clone the repo
 ```git clone https://github.com/szymon-slowinski/Dog2Add```
 Install NPM packages ```npm install```<br/>
-Create file .env.local and add your all API keys ``` REACT_APP_FIREBASE_API_KEY= YOUR API
-  REACT_APP_FIREBASE_AUTH_DOMAIN=YOUR API,
-  REACT_APP_FIREBASE_PROJECT_ID=YOUR API,
-  REACT_APP_FIREBASE_STORAGE_BUCKET=YOUR API,
-  REACT_APP_FIREBASE_MESSAGING_SENDER_ID=YOUR API,
- REACT_APP_FIREBASE_APP_ID=YOUR API
-``` </br>
+Create file .env.local and add your all API keys <br/> ``` REACT_APP_FIREBASE_API_KEY= YOUR API```<br/>
+ ``` REACT_APP_FIREBASE_AUTH_DOMAIN=YOUR API```<br/>
+ ```REACT_APP_FIREBASE_PROJECT_ID=YOUR API```<br/>
+ ```REACT_APP_FIREBASE_STORAGE_BUCKET=YOUR API```<br/>
+ ```REACT_APP_FIREBASE_MESSAGING_SENDER_ID=YOUR API```<br/>
+ ```REACT_APP_FIREBASE_APP_ID=YOUR API```<br/>
 Write in console ```npm start```
