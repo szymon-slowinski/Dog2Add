@@ -1,3 +1,4 @@
+# Content of Project
 * [General info])(#Information)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -20,7 +21,7 @@
 ## Setup
 Create account and get your API at https://firebase.google.com/ <br/>
 Clone the repo
-```git clone https://github.com/your_username_/Project-Name.git```
+```git clone https://github.com/szymon-slowinski/Dog2Add```
 Install NPM packages ```npm install```<br/>
 Create file .env.local and add your all API keys ``` REACT_APP_FIREBASE_API_KEY= YOUR API ``` </br>
 Write in console ```npm start```
